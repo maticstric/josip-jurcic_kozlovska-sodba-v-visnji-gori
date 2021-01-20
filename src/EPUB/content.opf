@@ -5,8 +5,8 @@
 		<dc:creator>Josip Jurčič</dc:creator>
 		<dc:title>Kozlovska sodba v Višnji gori</dc:title>
 		<dc:language>sl</dc:language>
-		<dc:source>https://www.dlib.si/details/URN:NBN:SI:DOC-1PWNEDTS</dc:source>
-		<dc:source>https://www.dlib.si/details/URN:NBN:SI:DOC-MTK2UHQ0</dc:source>
+		<dc:source>www.dlib.si/details/URN:NBN:SI:DOC-1PWNEDTS</dc:source>
+		<dc:source>www.dlib.si/details/URN:NBN:SI:DOC-MTK2UHQ0</dc:source>
 		<meta property="dcterms:modified">2021-01-18T20:33:28Z</meta>
 		<meta name="cover" content="cover.jpg"/>
 	</metadata>
